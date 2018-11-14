@@ -1,4 +1,6 @@
 URSA - RSA public/private key OpenSSL bindings for Node.js
+
+With fix from the main ursa repo for Windows build.
 ====
 
 

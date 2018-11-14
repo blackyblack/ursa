@@ -45,10 +45,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkg20001/ursa.git"
+    "url": "git+https://github.com/blackyblack/ursa.git"
   },
   "bugs": {
-    "url": "https://github.com/mkg20001/ursa/issues"
+    "url": "https://github.com/blackyblack/ursa/issues"
   },
-  "homepage": "https://github.com/mkg20001/ursa#readme"
+  "homepage": "https://github.com/blackyblack/ursa"
 }
